@@ -4,4 +4,4 @@ I am currently practicing my skills as a Cyber Security Research Assistant at UA
 
 Moreover, as a business major, I am captivated by the critical role cybersecurity plays in preserving an organization's digital integrity. My coursework has equipped me with a strong foundation, and I have embraced the challenge of programming to solve complex problems. From conceptualizing and coding games to participating in Capture the Flag exercises, I continually seek opportunities to expand my skill set.
 
-Feel free to reach out via email at hjmurphy24@gmail.com for more detailed information or to ask any questions.
+Feel free to reach out via email at hjmurphy24@gmail.com for more detailed information or to ask any questions. And also feel free to send me a connection request on LinkedIn (www.linkedin.com/in/hjmurphy), I'm always happy to expand my network! 
