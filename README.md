@@ -1,4 +1,4 @@
-Hello there! I'm Hunter Murphy, an Information Systems (cybersecurity concentration) student at the University of Alabama In Huntsville. I am actively looking to improve my skill set when it comes to coding and hope to be able to use these programming skills in the future. 
+Hello there! I'm Hunter Murphy, an Information Systems (cybersecurity concentration) student at the University of Alabama In Huntsville. I am actively looking to improve my skill set when it comes to coding, but more specifically Python coding, and hope to be able to use these programming skills in the future. 
 
 As an IS major, I understand the importance of being able to write good, clean code and being able to fully understand how code works. As a result, I made it my hobby to create different programming projects in the form of games. At first they started as simple text-based games such as Uno and Go Fish, but quickly took the form of 2-D games. I like to create these types of projects because they help me get better at fundamental programming concepets, but also because they are engaging and fun to work through. 
 
